@@ -1,0 +1,13 @@
+```javascript
+  {
+      "folders":
+      [
+          // Your project folders
+      ],
+
+      "syntax_override": {
+	    "\\.js$": ["Babel", "JavaScript (Babel)"],
+      "\\.sass$": ["CSS", "CSS"]
+	    }
+  }
+  ```
