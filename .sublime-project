@@ -7,7 +7,8 @@
 
       "syntax_override": {
       "\\.jsx$": ["Babel", "JavaScript (Babel)"],
-      "\\.sass$": ["CSS", "CSS"]
+      "\\.sass$": ["CSS", "CSS"],
+      "\\.scss$": ["SCSS", "SCSS"]
 	    }
   }
   ```
